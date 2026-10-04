@@ -23,3 +23,18 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Mobile layout for the about page profile photo and address
+@media (max-width: 575.98px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important;
+    width: 65%;
+    margin: 0 auto 1.5rem;
+    text-align: center;
+  }
+
+  .profile .more-info p {
+    display: block;
+  }
+}
