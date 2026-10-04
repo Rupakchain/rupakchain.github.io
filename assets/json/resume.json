@@ -39,10 +39,7 @@
       "startDate": "2026-04-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "Supervisor: Dr. Kunal Dutta",
-        "Research: Processing High-Dimensional Data Using Sample Compression and Dimensionality Reduction"
-      ]
+      "courses": ["Supervisor: Dr. Kunal Dutta", "Research: Processing High-Dimensional Data Using Sample Compression and Dimensionality Reduction"]
     },
     {
       "institution": "Indian Statistical Institute, Bangalore",
@@ -64,11 +61,7 @@
       "startDate": "2019-01-01",
       "endDate": "2022-01-01",
       "score": "",
-      "courses": [
-        "Mathematics (major)",
-        "Computer Science (generic)",
-        "Statistics (generic)"
-      ]
+      "courses": ["Mathematics (major)", "Computer Science (generic)", "Statistics (generic)"]
     }
   ],
   "awards": [
@@ -196,12 +189,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Dimensionality Reduction",
-        "Sample Compression",
-        "Computational Topology",
-        "High-Dimensional Probability"
-      ]
+      "keywords": ["Dimensionality Reduction", "Sample Compression", "Computational Topology", "High-Dimensional Probability"]
     }
   ],
   "references": [],
