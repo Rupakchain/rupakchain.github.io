@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student in Computer Science at the <a href='https://www.mimuw.edu.pl/'>University of Warsaw</a>
 
 profile:
   align: right
-  image: Rupak.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 4030, 4th floor</p>
+    <p>Faculty of Mathematics, Informatics and Mechanics</p>
+    <p>University of Warsaw</p>
+    <p>ul. Banacha 2, 02-097 Warsaw, Poland</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # includes a list of news items
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Computer Science at the Faculty of Mathematics, Informatics and Mechanics (MIMUW), University of Warsaw, advised by [Dr. Kunal Dutta](https://www.mimuw.edu.pl/~kdutta/).
+My research is on processing high-dimensional data using **sample compression** and **dimensionality reduction**, drawing on tools from **high-dimensional probability** and **computational topology**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am working on problems in dimensionality reduction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Warsaw, I completed a Master of Mathematics at the [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/) (2023–2025), during which I worked with [Dr. Siddharth Pritam](https://siddharthpritam.com/) at Chennai Mathematical Institute on the S-homotopy of graphs.
+I did my B.Sc. in Mathematics (Hons.) at Ramakrishna Mission Vidyamandira, Belur.
+
+Feel free to reach out at [r.chain@uw.edu.pl](mailto:r.chain@uw.edu.pl).
