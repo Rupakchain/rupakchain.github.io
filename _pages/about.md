@@ -29,4 +29,6 @@ I work on processing high-dimensional data using **dimensionality reduction** an
 
 Previously, I completed a Master of Mathematics at the [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/), where I worked with [Dr. Siddharth Pritam](https://siddharthpritam.com/) (CMI) on the S-homotopy of graphs, and a B.Sc. in Mathematics at Ramakrishna Mission Vidyamandira.
 
-Feel free to reach out at [r.chain@uw.edu.pl](mailto:r.chain@uw.edu.pl).
+### Contact
+
+Email: [r.chain@uw.edu.pl](mailto:r.chain@uw.edu.pl)
