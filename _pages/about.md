@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Computer Science at the<a href='https://www.mimuw.edu.pl/'>Faculty of Mathematics, Informatics and Mechanics (MIM)</a>, <a href='https://en.uw.edu.pl/'>University of Warsaw</a>, advised by [Dr. Kunal Dutta](https://www.mimuw.edu.pl/~kdutta/).
+I am a PhD student in Computer Science at the <a href='https://www.mimuw.edu.pl/'>Faculty of Mathematics, Informatics and Mechanics (MIM)</a>, <a href='https://en.uw.edu.pl/'>University of Warsaw</a>, advised by [Dr. Kunal Dutta](https://www.mimuw.edu.pl/~kdutta/).
 My research is on processing high-dimensional data using **sample compression** and **dimensionality reduction**, drawing on tools from **high-dimensional probability** and **computational topology**.
 
 Currently, I am working on problems in dimensionality reduction.
